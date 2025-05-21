@@ -93,5 +93,6 @@ This project implements a **110 sequence detector** using **Verilog and SystemVe
 ---
 
 ### **Contributors**  
-- **[Mohammed Faisal Tashildar](https://github.com/faisaltashildar)**
-- **[Ankit Kamanalli](https://github.com/Ask5665)**  
+- **[Syed Zain UL Abidin](https://github.com/healwithtech)**
+- **[Shamika R Gowda](https://github.com/shamika-Gowda)**
+- **[Abhishek](https://github.com/abhishx)**  
