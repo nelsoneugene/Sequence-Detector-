@@ -1,4 +1,4 @@
-owais@LAPTOP-42Q1RP93:~/OpenROAD-flow-scripts/flow$ history 100
+nelson@LAPTOP-42Q1RP93:~/OpenROAD-flow-scripts/flow$ history 100
   820  cd ../../../
   821  make DESIGN_CONFIG=designs/gf180/mult_comb/config.mk clean_all
   822  make DESIGN_CONFIG=designs/gf180/mult_comb/config.mk
