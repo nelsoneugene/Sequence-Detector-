@@ -3,7 +3,7 @@
   "modules": {
     "sequence_detector_110": {
       "attributes": {
-        "src": "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:2.1-62.10",
+        "src": "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:2.1-62.10",
         "top": "00000000000000000000000000000001",
         "hdlname": "sequence_detector_110"
       },
@@ -290,7 +290,7 @@
           },
           "attributes": {
             "full_case": "00000000000000000000000000000001",
-            "src": "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:0.0-0.0|/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:25.7-58.14"
+            "src": "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:0.0-0.0|/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:25.7-58.14"
           },
           "port_directions": {
             "A": "input",
@@ -377,7 +377,7 @@
           "hide_name": 0,
           "bits": [ 2 ],
           "attributes": {
-            "src": "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:11.9-11.14"
+            "src": "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:11.9-11.14"
           }
         },
         "current_state": {
@@ -391,21 +391,21 @@
           "hide_name": 0,
           "bits": [ 5 ],
           "attributes": {
-            "src": "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:12.14-12.20"
+            "src": "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:12.14-12.20"
           }
         },
         "reset_i": {
           "hide_name": 0,
           "bits": [ 3 ],
           "attributes": {
-            "src": "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:11.15-11.22"
+            "src": "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:11.15-11.22"
           }
         },
         "seq_in": {
           "hide_name": 0,
           "bits": [ 4 ],
           "attributes": {
-            "src": "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:11.23-11.29"
+            "src": "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:11.23-11.29"
           }
         }
       }
