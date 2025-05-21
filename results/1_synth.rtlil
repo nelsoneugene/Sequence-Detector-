@@ -31,11 +31,11 @@ module \sequence_detector_110
   attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28.14-28.23"
   wire $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28$4_Y
   attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35.14-35.23"
-  wire $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35$5_Y
+  wire $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35$5_Y
   attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42.14-42.23"
-  wire $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42$6_Y
+  wire $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42$6_Y
   attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49.14-49.23"
-  wire $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49$7_Y
+  wire $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49$7_Y
   attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:11.9-11.14"
   wire input 1 \clk_i
   attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:14.13-14.26"
