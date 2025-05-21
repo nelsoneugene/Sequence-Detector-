@@ -2,54 +2,54 @@
 autoidx 8
 attribute \hdlname "sequence_detector_110"
 attribute \top 1
-attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:2.1-62.10"
+attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:2.1-62.10"
 module \sequence_detector_110
   parameter \S0 2'00
   parameter \S1 2'10
   parameter \S2 2'01
   parameter \S3 2'11
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:16.3-22.8"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:16.3-22.8"
   wire width 2 $0\current_state[1:0]
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
   wire $0\detect[0:0]
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
   wire width 2 $0\next_state[1:0]
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
   wire $1\detect[0:0]
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
   wire width 2 $1\next_state[1:0]
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
   wire width 2 $2\next_state[1:0]
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
   wire width 2 $3\next_state[1:0]
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
   wire width 2 $4\next_state[1:0]
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
   wire width 2 $5\next_state[1:0]
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:18.10-18.20"
-  wire $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:18$2_Y
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28.14-28.23"
-  wire $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28$4_Y
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35.14-35.23"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:18.10-18.20"
+  wire $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:18$2_Y
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28.14-28.23"
+  wire $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28$4_Y
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35.14-35.23"
   wire $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35$5_Y
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42.14-42.23"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42.14-42.23"
   wire $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42$6_Y
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49.14-49.23"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49.14-49.23"
   wire $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49$7_Y
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:11.9-11.14"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:11.9-11.14"
   wire input 1 \clk_i
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:14.13-14.26"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:14.13-14.26"
   wire width 2 \current_state
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:12.14-12.20"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:12.14-12.20"
   wire output 4 \detect
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:14.27-14.37"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:14.27-14.37"
   wire width 2 \next_state
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:11.15-11.22"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:11.15-11.22"
   wire input 2 \reset_i
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:11.23-11.29"
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:11.23-11.29"
   wire input 3 \seq_in
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:18.10-18.20"
-  cell $eq $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:18$2
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:18.10-18.20"
+  cell $eq $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:18$2
     parameter \A_SIGNED 0
     parameter \A_WIDTH 1
     parameter \B_SIGNED 0
@@ -57,10 +57,10 @@ module \sequence_detector_110
     parameter \Y_WIDTH 1
     connect \A \reset_i
     connect \B 1
-    connect \Y $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:18$2_Y
+    connect \Y $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:18$2_Y
   end
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28.14-28.23"
-  cell $eq $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28$4
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28.14-28.23"
+  cell $eq $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28$4
     parameter \A_SIGNED 0
     parameter \A_WIDTH 1
     parameter \B_SIGNED 0
@@ -68,10 +68,10 @@ module \sequence_detector_110
     parameter \Y_WIDTH 1
     connect \A \seq_in
     connect \B 1
-    connect \Y $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28$4_Y
+    connect \Y $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28$4_Y
   end
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35.14-35.23"
-  cell $eq $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35$5
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35.14-35.23"
+  cell $eq $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35$5
     parameter \A_SIGNED 0
     parameter \A_WIDTH 1
     parameter \B_SIGNED 0
@@ -79,10 +79,10 @@ module \sequence_detector_110
     parameter \Y_WIDTH 1
     connect \A \seq_in
     connect \B 1
-    connect \Y $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35$5_Y
+    connect \Y $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35$5_Y
   end
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42.14-42.23"
-  cell $eq $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42$6
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42.14-42.23"
+  cell $eq $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42$6
     parameter \A_SIGNED 0
     parameter \A_WIDTH 1
     parameter \B_SIGNED 0
@@ -90,10 +90,10 @@ module \sequence_detector_110
     parameter \Y_WIDTH 1
     connect \A \seq_in
     connect \B 0
-    connect \Y $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42$6_Y
+    connect \Y $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42$6_Y
   end
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49.14-49.23"
-  cell $eq $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49$7
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49.14-49.23"
+  cell $eq $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49$7
     parameter \A_SIGNED 0
     parameter \A_WIDTH 1
     parameter \B_SIGNED 0
@@ -101,100 +101,100 @@ module \sequence_detector_110
     parameter \Y_WIDTH 1
     connect \A \seq_in
     connect \B 1
-    connect \Y $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49$7_Y
+    connect \Y $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49$7_Y
   end
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:16.3-22.8"
-  process $proc$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:16$1
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:16.3-22.8"
+  process $proc$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:16$1
     assign $0\current_state[1:0] \current_state
-    attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:18.7-21.37"
-    switch $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:18$2_Y
-      attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:18.10-18.20"
+    attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:18.7-21.37"
+    switch $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:18$2_Y
+      attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:18.10-18.20"
       case 1'1
         assign $0\current_state[1:0] 2'00
-      attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:20.7-20.11"
+      attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:20.7-20.11"
       case 
         assign $0\current_state[1:0] \next_state
     end
     sync posedge \clk_i
       update \current_state $0\current_state[1:0]
   end
-  attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
-  process $proc$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23$3
+  attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23.3-60.8"
+  process $proc$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:23$3
     assign { } { }
     assign { } { }
     assign $0\detect[0:0] $1\detect[0:0]
     assign $0\next_state[1:0] $1\next_state[1:0]
-    attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:25.7-58.14"
+    attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:25.7-58.14"
     switch \current_state
-      attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:0.0-0.0"
+      attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:0.0-0.0"
       case 2'00
         assign { } { }
         assign { } { }
         assign $1\detect[0:0] 1'0
         assign $1\next_state[1:0] $2\next_state[1:0]
-        attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28.11-31.29"
-        switch $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28$4_Y
-          attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28.14-28.23"
+        attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28.11-31.29"
+        switch $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28$4_Y
+          attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:28.14-28.23"
           case 1'1
             assign { } { }
             assign $2\next_state[1:0] 2'10
-          attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:30.11-30.15"
+          attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:30.11-30.15"
           case 
             assign { } { }
             assign $2\next_state[1:0] 2'00
         end
-      attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:0.0-0.0"
+      attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:0.0-0.0"
       case 2'10
         assign { } { }
         assign { } { }
         assign $1\detect[0:0] 1'0
         assign $1\next_state[1:0] $3\next_state[1:0]
-        attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35.11-38.27"
-        switch $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35$5_Y
-          attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35.14-35.23"
+        attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35.11-38.27"
+        switch $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35$5_Y
+          attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:35.14-35.23"
           case 1'1
             assign { } { }
             assign $3\next_state[1:0] 2'01
-          attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:37.11-37.15"
+          attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:37.11-37.15"
           case 
             assign { } { }
             assign $3\next_state[1:0] 2'00
         end
-      attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:0.0-0.0"
+      attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:0.0-0.0"
       case 2'01
         assign { } { }
         assign { } { }
         assign $1\detect[0:0] 1'0
         assign $1\next_state[1:0] $4\next_state[1:0]
-        attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42.11-45.27"
-        switch $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42$6_Y
-          attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42.14-42.23"
+        attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42.11-45.27"
+        switch $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42$6_Y
+          attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:42.14-42.23"
           case 1'1
             assign { } { }
             assign $4\next_state[1:0] 2'11
-          attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:44.11-44.15"
+          attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:44.11-44.15"
           case 
             assign { } { }
             assign $4\next_state[1:0] 2'01
         end
-      attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:0.0-0.0"
+      attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:0.0-0.0"
       case 2'11
         assign { } { }
         assign { } { }
         assign $1\detect[0:0] 1'1
         assign $1\next_state[1:0] $5\next_state[1:0]
-        attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49.11-52.27"
-        switch $eq$/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49$7_Y
-          attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49.14-49.23"
+        attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49.11-52.27"
+        switch $eq$/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49$7_Y
+          attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:49.14-49.23"
           case 1'1
             assign { } { }
             assign $5\next_state[1:0] 2'10
-          attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:51.11-51.15"
+          attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:51.11-51.15"
           case 
             assign { } { }
             assign $5\next_state[1:0] 2'00
         end
-      attribute \src "/home/owais/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:0.0-0.0"
+      attribute \src "/home/nelson/OpenROAD-flow-scripts/flow/designs/src/sequence_detector_110/sequence_detector_110.v:0.0-0.0"
       case 
         assign { } { }
         assign { } { }
